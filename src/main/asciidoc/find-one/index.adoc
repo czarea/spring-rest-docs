@@ -1,0 +1,5 @@
+[[users_find_one]]
+=== 单个用户查询
+
+include::success.adoc[]
+include::not-found.adoc[]

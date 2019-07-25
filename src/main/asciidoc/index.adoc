@@ -1,0 +1,17 @@
+= XXX项目api文档
+作者 - XXX项目组;
+:sectnums:
+:sectnumlevels: 5
+:toc: left
+:toclevels: 3
+:page-layout: docs
+:doctype: book
+:toc-title: 章节
+:icons: font
+:source-highlighter: highlightjs
+
+[[examples]]
+== 列表
+include::find-all/index.adoc[]
+include::find-one/index.adoc[]
+include::save/index.adoc[]
